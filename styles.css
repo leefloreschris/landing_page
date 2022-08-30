@@ -1,0 +1,70 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: 'Roboto', arial;
+  font-size: 16px;
+  line-height: 1.5;
+  background-color: #1F2937;
+}
+
+img {
+  max-width: 100px;
+  max-height: 100px;
+}
+
+.logo-text {
+  font-size: 24px;
+  color: #f9faf8;
+  font-weight: bold;
+}
+
+.hero-title {
+  font-size: 48px;
+  font-weight: bolder;
+  color: #f9faf8;
+}
+
+.hero-text, .nav {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+.nav a {
+  color: #e5e7eb;
+  text-decoration: none;
+}
+
+.box p {
+  color: #4b4d50;
+}
+
+.quote p {
+  font-size: 36px;
+  font-style: italic;
+  color: #1F2937;
+}
+
+.quote-section {
+  background-color: #e5e7eb;
+}
+
+.boxes {
+  background-color: #ffffff;
+}
+
+.call-to-action {
+  background-color: #ffffff;
+}
+
+footer {
+  color: #e5e7eb;
+}
+
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+}
